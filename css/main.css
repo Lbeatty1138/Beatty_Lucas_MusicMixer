@@ -32,7 +32,9 @@
 	height: 500px;
 	width: 1250px;
 	margin: 0 auto;
-	background-color: black;
+	/* this will need changed out but just proof of concept */
+	background: url(../images/placeHolderBkdrp.gif) no-repeat;
+	background-size: 1250px;
 }
 
 #dropZone1
