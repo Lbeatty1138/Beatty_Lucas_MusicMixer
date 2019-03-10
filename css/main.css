@@ -11,7 +11,7 @@
 {
 	width: 1400px;
 	margin: 0 auto;
-	background-color: red;
+	background-color: black;
 }
 
 /* Index Body */
@@ -27,15 +27,60 @@
 
 #dropZoneBase
 {
+	display: flex;
+	flex-direction: row;
 	height: 500px;
 	width: 1250px;
 	margin: 0 auto;
 	background-color: black;
 }
 
-#instrumentSet
+#dropZone1
 {
- 
+	margin-top: 50px;
+	height: 400px;
+	width: 208px;
+	border: thin dashed #86818161;
+}
+
+#dropZone2
+{
+	margin-top: 50px;
+	height: 400px;
+	width: 208px;
+	border: thin dashed #86818161;
+}
+
+#dropZone3
+{
+	margin-top: 50px;
+	height: 400px;
+	width: 208px;
+	border: thin dashed #86818161;
+}
+
+#dropZone4
+{
+	margin-top: 50px;
+	height: 400px;
+	width: 208px;
+	border: thin dashed #86818161;
+}
+
+#dropZone5
+{
+	margin-top: 50px;
+	height: 400px;
+	width: 208px;
+	border: thin dashed #86818161;
+}
+
+#dropZone6
+{
+	margin-top: 50px;
+	height: 400px;
+	width: 208px;
+	border: thin dashed #86818161;
 }
 
 #instrumentSelection
@@ -47,6 +92,8 @@
 	height: 155px;
 	width: 700px;
 	margin-top: -25px;
+	margin-left: auto;
+    margin-right: auto;
 }
 
 .instrumentIcon
