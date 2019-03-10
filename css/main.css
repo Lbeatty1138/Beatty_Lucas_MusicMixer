@@ -1,3 +1,61 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* general classes */
+.hidden
+{
+	display: none;
+}
+
+#siteCon
+{
+	width: 1400px;
+	margin: 0 auto;
+	background-color: red;
+}
+
+/* Index Body */
+
+#logo
+{
+	width: 150px;
+	height: 150px;
+	padding-top: 5px;
+	margin-left: 25px;
+	margin-bottom: 20px;
+}
+
+#dropZoneBase
+{
+	height: 500px;
+	width: 1250px;
+	margin: 0 auto;
+	background-color: black;
+}
+
+#instrumentSet
+{
+ 
+}
+
+#instrumentSelection
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	background-color: green;
+	height: 155px;
+	width: 700px;
+	margin-top: -25px;
+}
+
+.instrumentIcon
+{
+	width: 70px;
+	height: 70px;
+	margin-top: 20px;
+	margin-right: 20px;
+	background-color: grey;
+}
+
+
