@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 389.6 513.9" style="enable-background:new 0 0 389.6 513.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:19;stroke-miterlimit:10;}
+	.st2{fill:none;}
+	.st3{font-family:'DINAlternate-Bold';}
+	.st4{font-size:207px;}
+	.st5{letter-spacing:-24;}
+	.st6{letter-spacing:-12;}
+	.st7{letter-spacing:-8;}
+	.st8{font-family:'DINCondensed-Bold';}
+	.st9{font-size:30px;}
+	.st10{letter-spacing:2;}
+	.st11{stroke:#FDFEFE;stroke-miterlimit:10;}
+</style>
+<g id="BkDrop">
+	<path class="st0" d="M375,513.9H14.6c-8.1,0-14.6-6.6-14.6-14.6V14.6C0,6.6,6.6,0,14.6,0H375c8.1,0,14.6,6.6,14.6,14.6v484.6
+		C389.6,507.3,383.1,513.9,375,513.9z"/>
+</g>
+<g id="BOX">
+	<rect id="Block" x="18.2" y="142.8" class="st1" width="353.8" height="353.8"/>
+	<rect x="22.2" y="243.1" class="st2" width="361.7" height="270.7"/>
+	<text transform="matrix(1 0 0 1 13.9644 390.5146)"><tspan x="0" y="0" class="st3 st4 st5">M</tspan><tspan x="132" y="0" class="st3 st4 st6">F</tspan><tspan x="230.8" y="0" class="st3 st4 st7">G</tspan></text>
+	<rect x="134.9" y="91.5" class="st0" width="128.6" height="112.7"/>
+	<rect x="28" y="401.7" class="st2" width="334.3" height="65.2"/>
+	<text transform="matrix(1 0 0 1 102.1955 423.095)" class="st8 st9 st10">MUSIC  -  MIXER</text>
+</g>
+<g id="HAND">
+	<path d="M241.8,159.5h-79.5c-10.5,0-19-8.5-19-19V76.4h98.5V159.5z"/>
+	<rect x="143.3" y="6.4" width="31.9" height="119.2"/>
+	<rect x="210" y="6.4" width="31.9" height="119.2"/>
+	<rect x="176.5" y="79.9" class="st11" width="32.4" height="51"/>
+	<rect x="169.2" y="76.5" width="46.8" height="4.2"/>
+	<path d="M242.1,159.5h-26.3v-46.8h38.2v34.9C254.1,154.1,248.7,159.5,242.1,159.5z"/>
+	<rect x="224.8" y="100.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -10.2968 200.527)" width="24.3" height="24.3"/>
+	<rect x="194.1" y="100.8" class="st11" width="44.4" height="24.9"/>
+	<rect x="232.3" y="101.3" width="7.7" height="26.9"/>
+	<rect x="161.5" y="155" width="67" height="67"/>
+</g>
+</svg>
