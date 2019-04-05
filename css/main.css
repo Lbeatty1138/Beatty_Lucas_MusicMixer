@@ -33,8 +33,8 @@
 	width: 1250px;
 	margin: 0 auto;
 	/* this will need changed out but just proof of concept */
-	background: url(../images/placeHolderBkdrp.gif) no-repeat;
-	background-size: 1250px;
+	background: url(../images/main_stage.jpg) no-repeat;
+	background-size: 1250px 500px;
 }
 
 #dropZone1
